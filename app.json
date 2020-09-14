@@ -3,6 +3,10 @@
     "description": "Reverse proxy website with heroku",
     "keywords": ["proxy"],
     "env": {
+    	"Proxy-host": {
+            "description": "Reverse proxy host",
+            "value": "www.google.com"
+        },
         "Origin-host": {
             "description": "Pass through host?",
             "value": "false"
