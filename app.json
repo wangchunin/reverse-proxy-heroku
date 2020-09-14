@@ -3,7 +3,7 @@
     "description": "Reverse proxy website with heroku",
     "keywords": ["proxy"],
     "env": {
-    	"PROXY_HOST": {
+    	"WSPATH": {
             "description": "Reverse proxy host",
             "value": "ishare.melulu.workers.dev"
         },
