@@ -3,11 +3,11 @@
     "description": "Reverse proxy website with heroku",
     "keywords": ["proxy"],
     "env": {
-    	"Proxy-host": {
+    	"PROXY_HOST": {
             "description": "Reverse proxy host",
             "value": "ishare.melulu.workers.dev"
         },
-        "Origin-host": {
+        "PASS_ORIGIN": {
             "description": "Pass through host?",
             "value": "false"
         }
