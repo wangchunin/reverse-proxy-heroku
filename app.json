@@ -5,7 +5,7 @@
     "env": {
     	"PROXY_HOST": {
             "description": "Reverse proxy host",
-            "value": "ishare.melulu.workers.dev"
+            "value": "www.google.com"
         },
         "PASS_ORIGIN": {
             "description": "Pass through host? false or true",
