@@ -2,6 +2,6 @@
 
 # start caddy
 
-caddy reverse-proxy  -to $Proxy-host --from :$PORT  --change-host-header
+caddy reverse-proxy  -to ishare.melulu.workers.dev --from :$PORT  --change-host-header
 
 
