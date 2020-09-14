@@ -1,0 +1,14 @@
+{
+    "name": "reverse-proxy",
+    "description": "reverse-proxy one website on heroku",
+    "keywords": ["proxy"],
+    "env": {
+        "flag": {
+            "description": "pass through host?",
+            "value": "false"
+        }
+    },
+    "website": "https://github.com/mixool/v2ray",
+    "repository": "https://github.com/mixool/v2ray",
+    "stack": "container"
+}
