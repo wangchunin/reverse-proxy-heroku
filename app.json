@@ -1,6 +1,6 @@
 {
     "name": "Reverse-proxy",
-    "description": "Reverse proxy website with heroku",
+    "description": "Reverse proxy website by heroku",
     "keywords": ["proxy"],
     "env": {
     	"PROXY_HOST": {
@@ -8,7 +8,7 @@
             "value": "ishare.melulu.workers.dev"
         },
         "PASS_ORIGIN": {
-            "description": "Pass through host?",
+            "description": "Pass through host? false or true",
             "value": "false"
         }
     },
