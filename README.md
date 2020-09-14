@@ -4,5 +4,3 @@
 
 
 * 反代你想要的网站，谷歌似乎不行！
-  
-* 部署到kintohub: https://github.com/mixool/v2ray/tree/master/kinto

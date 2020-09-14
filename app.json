@@ -4,7 +4,7 @@
     "keywords": ["proxy"],
     "env": {
     	"PROXY_HOST": {
-            "description": "Reverse proxy host",
+            "description": "Reverse proxy host，have to write",
             "value": ""
         },
         "PASS_ORIGIN": {
