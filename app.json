@@ -5,7 +5,7 @@
     "env": {
     	"PROXY_HOST": {
             "description": "Reverse proxy host",
-            "value": "www.google.com"
+            "value": ""
         },
         "PASS_ORIGIN": {
             "description": "Pass through host? false or true",
